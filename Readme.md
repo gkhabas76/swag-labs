@@ -16,7 +16,7 @@ This project focuses on End-to-End (E2E) testing of the Sauce Demo web applicati
 The Sauce Demo application is a mock e-commerce site, perfect for testing. Our E2E tests will validate its core functions, including:
 
 1. User login (with both correct and incorrect credentials)
-2. Browse and filtering products
+2. Filtering products
 3. Adding and removing items from the shopping cart
 4. The entire checkout process
 5. Order confirmation
